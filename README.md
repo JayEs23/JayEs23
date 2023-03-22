@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]
+# Hi there, I'm Samuel U. John
 
 I'm a PHP developer and Scrum Master with over 5 years of experience in building web applications using PHP, MySQL, and other related technologies. I have a strong understanding of object-oriented programming and software design patterns, and I'm passionate about developing scalable, efficient, and maintainable code.
 
@@ -21,4 +21,4 @@ I'm a PHP developer and Scrum Master with over 5 years of experience in building
 
 ## Contact Information
 
-You can reach me at [your email address] or connect with me on [LinkedIn](link) to discuss potential collaboration or job opportunities.
+You can reach me at j.samuel2580@gmail.com or connect with me on <a href="https://www.linkedin.com/in/samuel-john964/">Linkedin</a> to discuss potential collaboration or job opportunities.
