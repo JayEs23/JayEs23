@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel U. John</h1>
-<h3 align="center">I'm a Software developer and Scrum Master with over 5 years of experience in building web applications using PHP, MySQL, and other related technologies. I have a strong understanding of object-oriented programming and software design patterns, and I'm passionate about developing scalable, efficient, and maintainable code.</h3>
+<h3 align="center">I'm a Software developer and Scrum Master with several years of experience in building web applications using PHP, MySQL, and other related technologies. I have a strong understanding of object-oriented programming and software design patterns, and I'm passionate about developing scalable, efficient, and maintainable code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayes23&label=Profile%20views&color=0e75b6&style=flat" alt="jayes23" /> </p>
 
