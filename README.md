@@ -9,54 +9,52 @@ I am a versatile professional, serving as a Software Engineer, Scrum Master, and
 
 ## Languages (Frameworks, Libraries)
 <div style="display:flex; flex-wrap: wrap; max-width: 500px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" title="Laravel" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" title="CodeIgniter" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" title="Next.js" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="React" title="React" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" title="Vue.js" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" title="Django" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" style="width: 40px; height: 40px; margin: 5px;">
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
+    <a href="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" /> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
+    <a href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
+    <a href="https://cdn.worldvectorlogo.com/logos/react.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="react" width="40" height="40" /> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+    <a href="https://cdn.worldvectorlogo.com/logos/django.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" /> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
 </div>
 
 ## Tools
 <div style="display:flex; flex-wrap: wrap; max-width: 500px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" title="Git" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" title="VS Code" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" title="GitHub" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" title="Docker" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" title="Google Cloud" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" title="Heroku" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="[https://www.vectorlogo.zone/logos/aws/aws-icon.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" alt="AWS" title="AWS" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" title="Azure" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" title="PostgreSQL" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" title="Redis" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MariaDB" title="MariaDB" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" title="RabbitMQ" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/cypress-io/cypress-io-ar21.svg" alt="Cypress" title="Cypress" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="OpenCV" title="OpenCV" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" title="TensorFlow" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" alt="Selenium" title="Selenium" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/webpack/webpack-icon.svg" alt="Webpack" title="Webpack" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" title="Heroku" style="width: 40px; height: 40px; margin: 5px;">
+    <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/github/github-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" /> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" /> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/figma/figma-original.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-original.svg" alt="figma" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="aws" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="mssql" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" /> </a>
+    <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mariadb" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/cypress-io/cypress-io-ar21.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cypress-io/cypress-io-ar21.svg" alt="cypress" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="opencv" width="40" height="40" /> </a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /> </a>
+    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /> </a>
+    <a href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
 </div>
+
 
 
 ## GitHub Stats
