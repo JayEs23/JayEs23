@@ -18,7 +18,12 @@ I am a versatile professional, serving as a Software Engineer, Scrum Master, and
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" title="Next.js" style="width: 40px; height: 40px; margin: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js" style="width: 40px; height: 40px; margin: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" style="width: 40px; height: 40px; margin: 5px;">
-  <!-- Add more frameworks and libraries as needed -->
+  <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="React" title="React" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" title="Vue.js" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" title="Django" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" title="Flask" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" style="width: 40px; height: 40px; margin: 5px;">
 </div>
 
 ## Tools
@@ -31,8 +36,28 @@ I am a versatile professional, serving as a Software Engineer, Scrum Master, and
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" title="Docker" style="width: 40px; height: 40px; margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" style="width: 40px; height: 40px; margin: 5px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" title="Webpack" style="width: 40px; height: 40px; margin: 5px;">
-  <!-- Add more tools as needed -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" title="Figma" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" title="Google Cloud" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" title="Heroku" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="AWS" title="AWS" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" title="Azure" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" title="PostgreSQL" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" title="MongoDB" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" title="Redis" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MariaDB" title="MariaDB" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" title="RabbitMQ" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/cypress-io/cypress-io-ar21.svg" alt="Cypress" title="Cypress" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" alt="OpenCV" title="OpenCV" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" title="TensorFlow" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" alt="Selenium" title="Selenium" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/webpack/webpack-icon.svg" alt="Webpack" title="Webpack" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" title="Heroku" style="width: 40px; height: 40px; margin: 5px;">
 </div>
+
 
 ## GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=jayes23&label=Profile%20views&color=0e75b6&style=flat)
