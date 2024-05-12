@@ -5,7 +5,7 @@ I am a versatile professional, serving as a Software Engineer, Scrum Master, and
 
 ## Connect with Me
 - 💬 Ask me about **PHP, Object-Oriented Programming, Laravel, MySQL**
-- Connect with me on [Twitter](https://twitter.com/jayes23)
+- Connect with me on [Twitter](https://twitter.com/VocettTech)
 
 ## Languages (Frameworks, Libraries)
 <div style="display:flex; flex-wrap: wrap; max-width: 500px;">
