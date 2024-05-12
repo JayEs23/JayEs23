@@ -55,23 +55,6 @@ I am a versatile professional, serving as a Software Engineer, Scrum Master, and
     <a href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
 </div>
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 1 1 50%;">
-        <img src="https://komarev.com/ghpvc/?username=jayes23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
-    </div>
-    <div style="flex: 1 1 50%;">
-        <img src="https://github-profile-trophy.vercel.app/?username=jayes23" alt="GitHub Trophy">
-    </div>
-    <div style="flex: 1 1 50%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayes23&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-    </div>
-    <div style="flex: 1 1 50%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=jayes23&show_icons=true&locale=en" alt="GitHub Stats">
-    </div>
-    <div style="flex: 1 1 100%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayes23" alt="GitHub Streak">
-    </div>
-</div>
 
 
 ## GitHub Stats
