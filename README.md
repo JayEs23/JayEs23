@@ -40,7 +40,7 @@ I am a versatile professional, serving as a Software Engineer, Scrum Master, and
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" style="width: 40px; height: 40px; margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" title="Google Cloud" style="width: 40px; height: 40px; margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" title="Heroku" style="width: 40px; height: 40px; margin: 5px;">
-  <img src="https://www.vectorlogo.zone/logos/aws/aws-icon.svg" alt="AWS" title="AWS" style="width: 40px; height: 40px; margin: 5px;">
+  <img src="[https://www.vectorlogo.zone/logos/aws/aws-icon.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)" alt="AWS" title="AWS" style="width: 40px; height: 40px; margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" title="Azure" style="width: 40px; height: 40px; margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" style="width: 40px; height: 40px; margin: 5px;">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" style="width: 40px; height: 40px; margin: 5px;">
