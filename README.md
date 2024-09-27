@@ -1,4 +1,4 @@
-# Hi 👋, I'm Samuel U. John
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Samuel John
 
 ## About Me
 I am a versatile professional, serving as a Software Engineer, Scrum Master, and Business Analyst with a wealth of experience in crafting robust mobile & web applications. My expertise spans PHP, TypeScript, Javascript, MySQL, Next.js, Nest.js, and other cutting-edge technologies. I am well-versed in object-oriented programming, and software design patterns, and possess a deep understanding of the Agile methodology as a Scrum Master. As a Business Analyst, I excel in translating business requirements into technical solutions, ensuring the delivery of scalable, efficient, and maintainable code.
@@ -59,7 +59,10 @@ I am a versatile professional, serving as a Software Engineer, Scrum Master, and
 
 ## GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=jayes23&label=Profile%20views&color=0e75b6&style=flat)
+<br />
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jayes23)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jayes23&show_icons=true&locale=en&layout=compact)
+<br />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayes23&show_icons=true&locale=en)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayes23)
