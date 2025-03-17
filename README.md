@@ -1,7 +1,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Samuel John
 
 ## About Me
-I am a versatile professional, serving as a Software Engineer, Scrum Master, and Business Analyst with a wealth of experience in crafting robust mobile & web applications. My expertise spans PHP, TypeScript, Javascript, MySQL, Next.js, Nest.js, and other cutting-edge technologies. I am well-versed in object-oriented programming, and software design patterns, and possess a deep understanding of the Agile methodology as a Scrum Master. As a Business Analyst, I excel in translating business requirements into technical solutions, ensuring the delivery of scalable, efficient, and maintainable code.
+I am a versatile professional, serving as a Software Engineer, Scrum Master, and Business Analyst wherever i'm needed. With a wealth of experience in crafting robust mobile & web applications, my expertise spans PHP, Pythong, TypeScript, Javascript, MySQL, Next.js, Nest.js, Django, Laravel and other cutting-edge technologies. I am well-versed in object-oriented programming, and software design patterns, and possess a deep understanding of the Agile methodology as a Scrum Master. As a Business Analyst, I excel in translating business requirements into technical solutions, ensuring the delivery of scalable, efficient, and maintainable code.
 
 ## Connect with Me
 - 💬 Ask me about **PHP, Object-Oriented Programming, Laravel, MySQL**
